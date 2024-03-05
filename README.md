@@ -6,9 +6,6 @@
 
 <div align="center">
 
-[Live](https://catherineisonline.github.io/four-card-feature-section-frontendmentor)
-| [Solution](https://www.frontendmentor.io/solutions/four-card-feature-section-fUDThIzoK)
-| [Challenge](https://www.frontendmentor.io/challenges/four-card-feature-section-weK1eFYK)
 
 Solution for a challenge from [frontendmentor.io](https://www.frontendmentor.io/)
 
